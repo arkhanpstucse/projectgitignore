@@ -3,9 +3,6 @@
 public class PracticeGitIgnore {
     public static void main(String[] args) {
 
-        string a="Hello,";
- string b="Git irnore"; 
-        system.out.print(result, a+b)
 // remove comments and add your code here
     }
 }
